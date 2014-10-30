@@ -52,15 +52,18 @@ default['mysql']['windows']['dir'] = "C:\\Mysql"
 ### MySQL Instance Configuration
 
 default['mysql']['windows']['AddBinToPath'] = 'no' # accepted values {yes | no}
+
 default['mysql']['windows']['ServerType'] = 'DEVELOPMENT' # accepted values {DEVELOPMENT | SERVER | DEDICATED}
+
 default['mysql']['windows']['DatabaseType'] = 'MIXED' # accepted values {MIXED | INNODB | MYISAM}
+
 default['mysql']['windows']['ConnectionUsage'] = 'DSS' # accepted values {DSS | OLTP}
+
 default['mysql']['windows']['SkipNetworking'] = 'yes' # accepted values {yes | no}. Specifying yes disables network access altogether
+
 default['mysql']['windows']['StrictMode'] = 'yes' # accepted values {yes | no}
 
 License & Authors
 -----------------
 - Author:: Deepak Sihag (<sihag.deepak@gmail.com>)
 
-
-=)
