@@ -1,4 +1,4 @@
-name 'mysql'
+name 'mysql-windows'
 maintainer 'Deepak Sihag'
 maintainer_email 'sihag.deepak@gmail.com'
 description 'Provides mysql server for windows'
