@@ -1,5 +1,5 @@
 # passwords
-default['mysql']['server_root_password'] = 'password'
+default['mysql']['server_root_password'] = 'replace_me'
 
 # port
 default['mysql']['port'] = '3306'
