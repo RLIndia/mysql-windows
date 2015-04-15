@@ -1,5 +1,5 @@
 #
-# Cookbook Name:: mysql
+# Cookbook Name:: mysql-windows
 # Recipe:: uninstall
 #
 
