@@ -1,5 +1,7 @@
 MySQL cookbook
 =====================
+[![Cookbook Version](https://img.shields.io/cookbook/v/mysql-windows.svg)](https://supermarket.chef.io/cookbooks/mysql-windows)
+
 
 The MySQL cookbook exposes the `mysql-windows::default` and `mysql-windows::uninstall` recipes.
 
